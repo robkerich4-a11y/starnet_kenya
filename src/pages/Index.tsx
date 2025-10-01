@@ -182,7 +182,7 @@ const Index = () => {
             © 2025 Starnet Kenya. All rights reserved.
           </p>
           <a
-            href="mailto:starnethelp01@gmail.com?subject=Internet%20Package%20Inquiry&body=Hi%20Starnet%20Kenya%2C%0AI%20would%20like%20to%20know%20more%20about%20your%20packages."
+            href="mailto:starntkenya@gmail.com?subject=Internet%20Package%20Inquiry&body=Hi%20Starnet%20Kenya%2C%0AI%20would%20like%20to%20know%20more%20about%20your%20packages."
             className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-xl shadow hover:bg-primary/90 transition"
           >
             Contact Us

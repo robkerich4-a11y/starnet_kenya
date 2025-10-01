@@ -16,7 +16,7 @@ interface PaymentModalProps {
 
 export const PaymentModal = ({ package: pkg, onClose }: PaymentModalProps) => {
   const [copied, setCopied] = useState(false);
-  const tillNumber = "6441148";
+  const tillNumber = "6925336";
 
   const copyToClipboard = () => {
     navigator.clipboard.writeText(tillNumber);
